@@ -1,0 +1,12 @@
+{
+    "workbench.startupEditor": "newUntitledFile",
+    "workbench.iconTheme": "material-icon-theme",
+    "editor.fontFamily": "'Fira Code', 'Source Code Pro', 'Jet Brains Mono', 'Cascadia Code', 'Victor Mono' ",
+    "editor.fontLigatures": false,
+    "editor.fontSize": 16,
+    "editor.tabSize": 2,
+    "files.autoSave": "afterDelay",
+    "editor.formatOnSave": true,
+    "workbench.colorTheme": "Atlantic Night"
+  }
+  
